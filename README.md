@@ -1,6 +1,6 @@
 # Online Indoor Localization Using DOA of Wireless Signals
 ## Overview
-This repository contains the datasets and scripts used in the experimentation for localization algorithms. Simulation folder contains tested dataset for each trajectory and implmenetd proposed pf-doa indoor localization algrorithm along with state-of-the-art algorithms.
+This repository contains the datasets and scripts used in the experimentation for localization algorithms. Simulation folder contains tested dataset for each trajectory and implmenetd proposed "PF-DOA (Particle Filter Wi-Fi DOA)" indoor localization algrorithm along with state-of-the-art algorithms.
 Visualize the system as: 
 
 ![Overview](/images/overview.png)

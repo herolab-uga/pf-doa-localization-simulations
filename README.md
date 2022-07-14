@@ -13,3 +13,25 @@ In the Simulation folder there is a separate python script file for each localiz
 
 To execute the script run: `$ python3 <script_file>`
 
+
+
+## Core contributors
+
+* **Ehsan Latif** - PhD student
+
+* **Dr.Ramviyas Parasuraman** - Principal Investigator
+
+
+## Heterogeneous Robotics (HeRoLab)
+
+Heterogeneous Robotics Research Lab (HeRoLab) of the University of Georgia.
+
+Please contact hero at uga . edu for any queries
+
+http://hero.uga.edu/
+
+<p align="center">
+<img src="http://hero.uga.edu/wp-content/uploads/2021/04/herolab_newlogo_whitebg.png" width="300">
+</p>
+
+
